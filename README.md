@@ -1,6 +1,6 @@
 # MTF - buys prescription number for Progynova（PSD）
 
-## ⚠注意⚠ ： 打印尺寸存在纰漏 **
+## ⚠注意⚠ ： 打印尺寸存在纰漏 
 
 MTF 购买 Progynova（补佳乐） 的处方号（PSD工程文件）带公章和签名等。
 
